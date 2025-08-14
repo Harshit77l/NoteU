@@ -1,6 +1,6 @@
 # NoteU
 
-![image](https://github.com/RandomThacker/zotion/assets/141705990/d6e42733-9426-466e-b7a1-76222d567c4c)
+
 
 
 NoteU is a Notion-like application built with Next.js 14, React, Convex, Tailwind, Clerk, and EdgeStore. It is a real-time database and Notion-style editor that allows you to create, edit, and delete documents. It also allows you to publish your note to the web.
@@ -9,7 +9,7 @@ It uses Convex as the backend, which is a real-time database that allows for ins
 
 ## Live
 
-NoteU - [https://zotion-app.vercel.app/](https://zotion-app.vercel.app/)
+NoteU - 
 
 ## Features
 
