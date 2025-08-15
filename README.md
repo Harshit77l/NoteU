@@ -7,6 +7,10 @@ NoteU is a Notion-like application built with Next.js 14, React, Convex, Tailwin
 
 It uses Convex as the backend, which is a real-time database that allows for instant data updates. The application also uses Edgestore, a distributed key-value store, to manage the images and files uploaded by the users.The user authentication is handled by Clerk, a secure and scalable user authentication API.
 
+
+<img width="1264" height="638" alt="Group 6 (1)" src="https://github.com/user-attachments/assets/36f0196d-d7d6-4b82-92da-90ec1c404330" />
+
+
 ## Live
 
 NoteU - 
