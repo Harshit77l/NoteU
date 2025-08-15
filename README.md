@@ -11,12 +11,6 @@ It uses Convex as the backend, which is a real-time database that allows for ins
 
 NoteU - 
 
-## Features
-
-I got you. Here's a shorter, punchier version of your features list, perfect for a README file that's meant to be quickly scanned. It keeps the "new developer" energy but gets straight to the point.
-
----
-
 ### Key Features
 
 * **Real-time Database:** Changes sync instantly. No need to hit save.
