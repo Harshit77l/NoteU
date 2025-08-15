@@ -13,39 +13,29 @@ NoteU -
 
 ## Features
 
--Real-time database 🔗
+I got you. Here's a shorter, punchier version of your features list, perfect for a README file that's meant to be quickly scanned. It keeps the "new developer" energy but gets straight to the point.
 
--Notion-style editor 📝
+---
 
--Light and Dark mode 🌓
+### Key Features
 
--Infinite children documents 🌲
+* **Real-time Database:** Changes sync instantly. No need to hit save.
+  
+* **Notion-Style Editor:** Build beautiful documents with a powerful, block-based editor.
+  
+* **Dynamic UI:** Toggle between light and dark modes, and use a fully collapsible sidebar.
 
--Trash can & soft delete 🗑
+* **Infinite Children:** Create endless nested documents to keep your work organized.
 
--Authentication 🔐
+* **Smart Deletion:** Files go to a trash can first, so you can easily recover them.
 
--File upload
+* **File Management:** Upload, replace, and delete images, and add a custom cover for each document.
 
--File deletion
+* **User Authentication:** Secure logins and private accounts.
 
--File replacement
+* **Web Publishing:** Share any note with a public, unique URL.
 
--Icons for each document (changes in real-time) 🌠
-
--Expandable sidebar ➡🔀⬅
-
--Full mobile responsiveness 📱
-
--Publish your note to the web 🌐
-
--Fully collapsable sidebar ↕
-
--Landing page 🛬
-
--Cover image of each document 🖼
-
--Recover deleted files 🔄📄
+* **Mobile-Friendly:** The entire app is fully responsive and looks great on any device.
 
 ## Technologies
 
